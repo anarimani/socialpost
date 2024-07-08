@@ -1,0 +1,6 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/app1saen/public_html/socialpost"
+PassengerBaseURI "/socialpost"
+PassengerPython "/home/app1saen/virtualenv/public_html/socialpost/3.9/bin/python"
+PassengerAppLogFile "/home/app1saen/passenger2.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
